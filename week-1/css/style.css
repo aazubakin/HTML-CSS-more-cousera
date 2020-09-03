@@ -1,0 +1,44 @@
+.card {
+   width: 160px;
+   height: 160px;
+   background-color: grey;
+   display: inline-block;
+   border: solid 1px red;
+}
+
+.card-keks {
+   background-image: url("../img/116230_original.png");
+}
+.card-garfild {
+   background: url("../img/116230_original.png") 180px 170px;
+}
+.card-tom {
+   background: url("../img/116230_original.png") 380px 170px;
+}
+.card-goodwin {
+   background: url("../img/116230_original.png") 560px 170px;
+}
+.card-rokki {
+   background: url("../img/116230_original.png") 750px 170px;
+}
+.card-pushok {
+   background: url("../img/116230_original.png") 950px 170px;
+}
+.card-begemot {
+   background: url("../img/116230_original.png") 0px 350px;
+}
+.card-pirat {
+   background: url("../img/116230_original.png") 180px 350px;
+}
+.card-simon {
+   background: url("../img/116230_original.png") 375px 350px;
+}
+.card-bazilio {
+   background: url("../img/116230_original.png") 560px 350px;
+}
+.card-albus {
+   background: url("../img/116230_original.png") 750px 350px;
+}
+.card-zorro {
+   background: url("../img/116230_original.png") 180px 0px;
+}
